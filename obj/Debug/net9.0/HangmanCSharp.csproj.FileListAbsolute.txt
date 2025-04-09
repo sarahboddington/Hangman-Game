@@ -1,0 +1,14 @@
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/bin/Debug/net9.0/HangmanCSharp
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/bin/Debug/net9.0/HangmanCSharp.deps.json
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/bin/Debug/net9.0/HangmanCSharp.runtimeconfig.json
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/bin/Debug/net9.0/HangmanCSharp.dll
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/bin/Debug/net9.0/HangmanCSharp.pdb
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/HangmanCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/HangmanCSharp.AssemblyInfoInputs.cache
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/HangmanCSharp.AssemblyInfo.cs
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/HangmanCSharp.csproj.CoreCompileInputs.cache
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/HangmanCSharp.dll
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/refint/HangmanCSharp.dll
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/HangmanCSharp.pdb
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/HangmanCSharp.genruntimeconfig.cache
+/Users/sarahboddington/Visual-Studio-Code-Workspace/HangmanCSharp/obj/Debug/net9.0/ref/HangmanCSharp.dll
